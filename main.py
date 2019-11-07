@@ -1,4 +1,4 @@
-class OnlyOne:
+class OnlyOne(object):
     class __OnlyOne:
         def __init__(self, arg):
             self.val = arg
